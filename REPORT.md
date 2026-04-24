@@ -16,7 +16,7 @@ File benchmark_result.json trong repo
 
 ## 3. Screenshot GCP Billing Reports
 
-Đã sử dụng n2-standard-8 của gcd trong 2h nhưng billing của google cập nhật chậm quá, không kịp nộp bài nên em nộp tạm minh chứng đã chạy gcd mất phí.
+![alt text](image-3.png)
 
 ![alt text](image-1.png)
 
